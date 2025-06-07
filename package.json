@@ -15,5 +15,9 @@
     "react-konva": "latest",
     "canvas-confetti": "latest",
     "use-image": "latest"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
   }
 }
